@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>audio blog</title>
+    <link>http://davisland.info/blog</link>
+    <language>en-us</language>
+    <itunes:subtitle>Here's some stuff I've made.</itunes:subtitle>
+    <itunes:author>Davis Land</itunes:author>
+    <itunes:summary>An audio blog of things I've made.</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Davis Land</itunes:name>
+        <itunes:email>dland95@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://davisland.info/podcast_art.png"/>
+    <itunes:category text="Arts" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:copyright text="Davis Land" />
+    <link>http://davisland.info</link>
+    
+        <item>
+          <title>Charles</title>
+          <itunes:author></itunes:author>
+          <itunes:summary>Talking with Charles, an activist, writer, and musician </itunes:summary>
+          <itunes:image href="http://davisland.info/podcast_art.png"/>
+          <enclosure url = "http://archive.org/download/CharlesMixdown/Charles_mixdown.mp3" length="10797427" type="audio/mpeg"></enclosure>
+          <pubDate>Sat, 26 Mar</pubDate>
+          <itunes:duration></itunes:duration>
+        </item>
+    
+  </channel>
+</rss>
+

@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata:400,700);
+
+html,body {
+    height: 100%;
+    font-family: 'Inconsolata', 'Courier New', sans-serif;
+    color: #304036;
+    background: #649b78;
+}
+
+h1 {
+  font-size: 1.2em;
+  display: inline;
+}
+
+h2 {
+  font-size: .8em;
+}
+
+.post-list {
+  padding-left: 0px;
+}
+
+.content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.home {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 50%;
+  margin: 0 auto;
+}
+
+.float-left { float: left; }
+.float-right { float: right; }
+
+audio { 
+    width: 560px; 
+    display: table; 
+    margin: 0 auto; 
+}
+
+a {
+    color: #304036;
+}
+
+@media screen and (max-width: 768px) {
+  .home {
+    position: static;
+    margin: auto;
+    max-width: 21rem;
+  }
+
+  .content {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 0 0;
+    max-width: 29rem;
+  }
+
+  audio {
+    max-width: 50%;
+    display: table;
+    margin: 0 auto;
+  }
+
+}
