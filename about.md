@@ -3,7 +3,7 @@ layout: page
 title: about
 permalink: /about/
 ---
-Hi! My name is Davis Land.
+Hi! My name is Josh McCormack.
 
 I&#39;m a student at Texas A&amp;M University, studying Telecommunications and Media Studies.
 
