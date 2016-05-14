@@ -13,4 +13,4 @@ Over the past few years I&#39;ve worked for various publications and aquired a w
 
 
 
-A Link to my Linkedin Profile](https://www.linkedin.com/in/josh-mccormack-712031114?trk=nav_responsive_tab_profile_pic)
+[A Link to my Linkedin Profile](https://www.linkedin.com/in/josh-mccormack-712031114?trk=nav_responsive_tab_profile)
