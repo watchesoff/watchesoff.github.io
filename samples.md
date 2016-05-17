@@ -4,9 +4,9 @@ title: samples
 permalink: /samples/
 ---
 
-["Title" Bright Sky Press Blog](http://brightskypress.com/blog/)
+["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
-["Title" Bright Sky Press Blog](http://brightskypress.com/blog/)
+["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
 ["Title" - The Eckleburg Project Blog](https://theeckleblog.com)
 
