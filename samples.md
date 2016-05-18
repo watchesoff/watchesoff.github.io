@@ -4,8 +4,6 @@ title: samples
 permalink: /samples/
 ---
 
-[sk vol 1](file:///Users/joshmccormack/Desktop/Southern%20Knuckles%20Vol.%201%20Preview/index.html) 
-
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
