@@ -8,7 +8,7 @@ permalink: /samples/
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
-["Title" - The Eckleburg Project Blog](https://theeckleblog.com)
+["Summer Soul Selections - Get the Girl" - The Eckleburg Project Blog](https://theeckleblog.com/2016/05/25/summer-soul-selections-get-the-girl/)
 
 ["Title" - The Eckleburg Project Blog](https://theeckleblog.com)
 
