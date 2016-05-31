@@ -4,7 +4,7 @@ title: samples
 permalink: /samples/
 ---
 
-![Callallo USA Creative Writing Workshop at Brown University Participant Reading Night Flyer](Participant Reading Flier - Brown 2016.jpg)
+![Callallo USA Creative Writing Workshop at Brown University Participant Reading Night Flyer](Participant Reading Flier - Brown 2016.png)
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
