@@ -4,8 +4,6 @@ title: samples
 permalink: /samples/
 ---
 
-<img src="http://watchesoff.github.io/samples/Participant.jpg" height="100" width="100" />
-
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
