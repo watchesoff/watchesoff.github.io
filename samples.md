@@ -4,7 +4,7 @@ title: samples
 permalink: /samples/
 ---
 
-<img src="file:///Users/joshmccormack/Desktop/Participant.png" alt="Example Image" height="50" width="50">
+[Callallo USA Creative Writing Workshop at Brown University Participant Reading Night Flyer](file:///Users/joshmccormack/Desktop/Participant.png)
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
