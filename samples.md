@@ -4,7 +4,7 @@ title: samples
 permalink: /samples/
 ---
 
-[Callallo USA Creative Writing Workshop at Brown University Participant Reading Night Flyer](file:///Users/joshmccormack/Desktop/Participant.png)
+![brown uni](file:///Users/joshmccormack/Desktop/Participant.png)
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
