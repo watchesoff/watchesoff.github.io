@@ -4,8 +4,6 @@ title: samples
 permalink: /samples/
 ---
 
-![Brown Uni](file:///C:\\Users/joshmccormack/Desktop/Participant.png)
-
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
