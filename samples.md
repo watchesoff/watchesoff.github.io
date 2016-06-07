@@ -4,6 +4,8 @@ title: samples
 permalink: /samples/
 ---
 
+Professional
+
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
 
 ["Title" - Bright Sky Press Blog](http://brightskypress.com/blog/)
@@ -19,3 +21,6 @@ permalink: /samples/
 ["AggieCon draws hundreds from sci-fi community" - The Battalion](http://www.thebatt.com/life-arts/aggiecon-draws-hundreds-from-sci-fi-community/article_af08318e-fa15-11e5-bded-9394d7ec3bd2.html)
 
 ["A&amp;M Earth Day Celebration to target environmental awareness" - The Battalion](http://www.thebatt.com/life-arts/a-m-earth-day-celebration-to-target-environmental-awareness/article_4ddeb7ca-0811-11e6-827c-6f116920d290.html)
+
+Creative
+
