@@ -17,6 +17,3 @@ Professional
 ["The Importance of Youth Sports" - Bright Sky Press Blog](http://brightskypress.com/the-importance-of-youth-sports/)
 
 ["Summer Soul Selections - Get the Girl" - The Eckleburg Project Blog](https://theeckleblog.com/2016/05/25/summer-soul-selections-get-the-girl/)
-
-Creative
-
