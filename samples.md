@@ -4,7 +4,11 @@ title: samples
 permalink: /samples/
 ---
 
-Professional
+["Music, Aggie spirit meet at Lyle Lovett concert" - The Battalion](http://www.thebatt.com/life-arts/music-aggie-spirit-meet-at-lyle-lovett-concert/article_b96e6a92-6d67-11e6-a4e8-6350d1435cda.html)
+
+[Up in the air, up in the ranks](http://www.thebatt.com/life-arts/up-in-the-air-up-in-the-ranks/article_4b6a6c4c-7e12-11e6-8f94-33844ec24fbd.html)
+
+[Silver Taps: Jack Randolph Bryant](http://www.thebatt.com/traditions/silver-taps-jack-randolph-bryant/article_785bbeb4-73ee-11e6-8c1b-97fdd8ec6fc4.html)
 
 ["Meet the &#39;Mom of Chilifest&#39;" - The Batallion](http://www.thebatt.com/life-arts/meet-the-mom-of-chilifest/article_8455f37a-02be-11e6-933f-5bb689d3f56e.html)
 
