@@ -13,7 +13,7 @@ Over the years I&#39;ve worked for various publications and aquired a wealth of 
 
 Through these experiences, I have crafted a love for publication. I hope to pursue this passion as both a career and vocation. To me, the meaning of publication is to give people a voice. Whether it is the journalist voicing a story that needs to be heard or a writer who could change someone's life with their words. 
 
-I personally enjoy creative writing and one of my dream of mine is be a published novelist. 
+I personally enjoy creative writing and one of my dreams is be a published novelist. 
 
 I am originally from Naples, Florida. I have also lived in New Jersey and Texas. Growing up in different parts of the country has given me an insight to how people, hundreds of miles away from one another, can so so vastly different and yet so similar. 
 
