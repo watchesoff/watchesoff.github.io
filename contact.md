@@ -8,4 +8,4 @@ Email :: [watchesoff@gmail.com](mailto:watchesoff@gmail.com) // [aggielife@theba
 
 Phone :: (936) 827-9651
 
-Twitter :: [@watchesoff](https://twitter.com/watchesoff)<br><br><br>
+Twitter :: [@_joshmccormack](https://twitter.com/_joshmccormack)<br><br><br>
