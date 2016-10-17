@@ -21,6 +21,10 @@ I personally enjoy creative writing and one of my dreams is to be a published no
 
 I am originally from Naples, Florida. I have also lived in New Jersey and Texas. Growing up in different parts of the country gave me the opportunity to experience what new places have to offer, forming a love for different regions and the people who live there. 
 
+<<<<<<< HEAD
 Tare books that communicate meaning, music that can move its listeners, movies that depict the human experience, my family whom I hold close to my heart, and my friends who I share life with. 
+=======
+[A Link to my Resume](http://watchesoff.github.io/JM_RESUME.pdf) 
+>>>>>>> origin/master
 
 [A Link to my Linkedin profile](https://www.linkedin.com/in/josh-mccormack-712031114?trk=nav_responsive_tab_profile)
