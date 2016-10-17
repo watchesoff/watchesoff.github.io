@@ -19,6 +19,6 @@ I am originally from Naples, Florida. I have also lived in New Jersey and Texas.
 
 The things that I love in this world are books that communicate to me deep meaning, music that connects with me on a spiritual level, movies that resonate with me in all forms, my family whom I hold close to my heart, and my friends who I share life with. 
 
-[A Link to my Resume](file:///Users/joshmccormack/Desktop/Resume/index.html) 
+[A Link to my Resume](https://github.com/watchesoff/watchesoff.github.io/blob/master/JM%20RESUME%20copy.pdf) 
 
 [A Link to my Linkedin profile](https://www.linkedin.com/in/josh-mccormack-712031114?trk=nav_responsive_tab_profile)
