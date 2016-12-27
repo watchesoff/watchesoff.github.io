@@ -5,6 +5,7 @@ permalink: /samples/
 ---
 
 "It’s like playing at home. It’s like being home,” Lovett said. “Anybody that ever goes to A&amp;M always feels that connection to College Station and Texas A&amp;M. Not only does it feel like home, but people treat you like you are home and there’s not a more reassuring feeling in the whole world." 
+
 [Music, Aggie spirit meet at Lyle Lovett concert](http://www.thebatt.com/life-arts/music-aggie-spirit-meet-at-lyle-lovett-concert/article_b96e6a92-6d67-11e6-a4e8-6350d1435cda.html)
 
 ["Up in the air, up in the ranks" - The Battalion](http://www.thebatt.com/life-arts/up-in-the-air-up-in-the-ranks/article_4b6a6c4c-7e12-11e6-8f94-33844ec24fbd.html)
