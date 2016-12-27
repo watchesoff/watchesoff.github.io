@@ -9,14 +9,14 @@ permalink: /samples/
 [Music, Aggie spirit meet at Lyle Lovett concert](http://www.thebatt.com/life-arts/music-aggie-spirit-meet-at-lyle-lovett-concert/article_b96e6a92-6d67-11e6-a4e8-6350d1435cda.html)
 
 
-"I saw a crowd start running and I did the opposite — instead of running away I went towards it to see what’s happening, because I feel like if everyone’s running someone needs help usually at that point," Hale said.
-
-[Protesters gather in Rudder in response to Spencer event, storm the MSC](http://www.thebatt.com/news/protesters-gather-in-rudder-in-response-to-spencer-event-storm/article_8f748190-bc27-11e6-8a3e-6f7e9709f4d4.html)
-
-
 “I’m here because I am against white supremacy,” computer science junior and student president of A&amp;M Hillel Aaron Blasband said. “I am against neo-nazism as a Jew. My grandparents were in the Holocaust and a large majority of my family was killed in the Holocaust from very similar thinking to this. So when something is going on like this it makes me want to go out there and spread love more than anything else.”
 
 [Religious leaders gather to march prior to Richard Spencer's speech](http://www.thebatt.com/news/religious-leaders-gather-to-march-prior-to-richard-spencer-s/article_8fb62f82-bc13-11e6-b39d-5bfd2b034cfc.html)
+
+
+"I saw a crowd start running and I did the opposite — instead of running away I went towards it to see what’s happening, because I feel like if everyone’s running someone needs help usually at that point," Hale said.
+
+[Protesters gather in Rudder in response to Spencer event, storm the MSC](http://www.thebatt.com/news/protesters-gather-in-rudder-in-response-to-spencer-event-storm/article_8f748190-bc27-11e6-8a3e-6f7e9709f4d4.html)
 
 
 “I play disc golf for a lot of reasons,” Wilkins said. “One of the most important reasons for me is the people I meet. I am a Christian, and I enjoy getting the opportunity to share my faith with those around me. Disc Golf helps me meet so many people who I would not otherwise know, including people from all kinds of walks of life."
